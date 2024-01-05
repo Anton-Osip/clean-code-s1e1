@@ -74,7 +74,7 @@ button:hover {
   margin: 0 0 20px;
 }
 .add-task__input {
-  width: 318px;
+  width: 100%;
 }
 .item__input,
 .add-task__input {
